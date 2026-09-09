@@ -1,0 +1,8 @@
+{
+  "name": "Caza al Wumpus",
+  "description": "Juego retro de exploración y cacería en cavernas Caza al Wumpus con mapa interactivo y efectos de sonido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
